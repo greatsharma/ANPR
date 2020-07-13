@@ -1,4 +1,4 @@
-# NPR-AM
+# NPR
 Number Plate Recognition
 
 
